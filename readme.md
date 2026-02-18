@@ -71,7 +71,7 @@ Built an interactive dashboard to present:
 
 ---
 ## 📷 Dashboard Preview
- ![Dashboard]()
+ ![Dashboard](https://github.com/Sahilpatil17/Customer_Behaviour_Analysis_Project/blob/main/Customer_behaviour_Dashboard.pdf)
 
 ## 📂 Repository Structure
 📦 Customer-Shopping-Behavior-Analysis<br>
