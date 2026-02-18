@@ -81,6 +81,7 @@ Built an interactive dashboard to present:
 | 📓 Customer_shopping_Behaviour_Analysis.ipynb | Python analysis |
 | 🗄️ customer_behavior_sql_Manipulation.sql | SQL queries |
 | 📊 Customer_behaviour_visualization.pbix | Power BI dashboard |
+| 📊 Customer_Behaviour_Analysis_Dashboard.png | Image |
 | 📄 Business Problem Document.pdf | Problem statement |
 | 📘 README.md | Project guide |
 
