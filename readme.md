@@ -71,13 +71,16 @@ Built an interactive dashboard to present:
 
 ---
 ## 📷 Dashboard Preview
- ![Dashboard](https://github.com/Sahilpatil17/Customer_Behaviour_Analysis_Project/blob/main/Customer_behaviour_Dashboard.pdf)
+ ![Dashboard](https://github.com/Sahilpatil17/Customer_Behaviour_Analysis_Project/blob/main/Customer%20Behaviour%20Analysis%20Dashboard.png)
 
 ## 📂 Repository Structure
-📦 Customer-Shopping-Behavior-Analysis<br>
- ┣ 📜 customer_shopping_behavior.csv<br>
- ┣ 📓 Customer_shopping_Behaviour_Analysis.ipynb<br>
- ┣ 🗄️ customer_behavior_sql_Manipulation.sql<br>
- ┣ 📊 Customer_behaviour_visualization.pbix<br>
- ┣ 📄 Business Problem Document.pdf<br>
- ┗ 📘 README.md<br>
+
+| File | Description |
+|--------|-------------|
+| 📜 customer_shopping_behavior.csv | Dataset |
+| 📓 Customer_shopping_Behaviour_Analysis.ipynb | Python analysis |
+| 🗄️ customer_behavior_sql_Manipulation.sql | SQL queries |
+| 📊 Customer_behaviour_visualization.pbix | Power BI dashboard |
+| 📄 Business Problem Document.pdf | Problem statement |
+| 📘 README.md | Project guide |
+
